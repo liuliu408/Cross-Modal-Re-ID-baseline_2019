@@ -1,4 +1,4 @@
-代码来源：https://github.com/mangye16/Cross-Modal-Re-ID-baseline  (这是2019年的老版代码)
+代码来源：https://github.com/mangye16/Cross-Modal-Re-ID-baseline
 
 # Cross-Modal-Re-ID-baseline
 Pytorch Code for Cross-Modality Person Re-Identification (Visible Thermal Re-ID) on RegDB dataset [1] and SYSU-MM01 dataset [2]. 
