@@ -1,5 +1,5 @@
 ﻿
-# 四川大学，重识别检索rank可视化代码
+# 四川大学，跨模态行人重识别检索可视化代码
 # liu qiang
 
 from __future__ import print_function
