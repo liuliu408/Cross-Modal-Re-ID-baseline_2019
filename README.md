@@ -13,13 +13,8 @@ We adopt the two-stream network structure introduced in [3]. ResNet50 is adopted
 ### 1. Prepare the datasets.
 
 - (1) RegDB Dataset [1]: The RegDB dataset can be downloaded from this [website](http://dm.dongguk.edu/link.html) by submitting a copyright form.
-
-    - (Named: "Dongguk Body-based Person Recognition Database (DBPerson-Recog-DB1)" on their website). 
-
-    - A private download link can be requested via sending me an email (mangye16@gmail.com). 
-  
+    - (Named: "Dongguk Body-based Person Recognition Database (DBPerson-Recog-DB1)" on their website).   
 - (2) SYSU-MM01 Dataset [2]: The SYSU-MM01 dataset can be downloaded from this [website](http://isee.sysu.edu.cn/project/RGBIRReID.htm).
-
    - run `python pre_process_sysu.py` to pepare the dataset, the training data will be stored in ".npy" format.
 
 ### 2. Training.
