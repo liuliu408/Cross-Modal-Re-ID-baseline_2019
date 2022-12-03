@@ -74,4 +74,4 @@ light and thermal cameras. Sensors, 17(3):605, 2017.
 
 [3]  M. Ye, Z. Wang, X. Lan, and P. C. Yuen. Visible thermal person reidentification via dual-constrained top-ranking. In International Joint Conference on Artificial Intelligence (IJCAI), pages 1092–1099, 2018.
 
-Contact: mangye16@gmail.com
+
